@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>141366367329-voqgemmrdadv7a3431lvfurch444godl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.141366367329-voqgemmrdadv7a3431lvfurch444godl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAEkWwu4w47Uyw3CKmLPb0o0smLjF5xBzI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>141366367329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kr.ac.kpu.CreditCardList</string>
+	<key>PROJECT_ID</key>
+	<string>creditcard-list-aee74</string>
+	<key>STORAGE_BUCKET</key>
+	<string>creditcard-list-aee74.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:141366367329:ios:018b919d0cd478c2c74620</string>
+</dict>
+</plist>
